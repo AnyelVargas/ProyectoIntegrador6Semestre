@@ -14,6 +14,7 @@ public class ProyectoIntegrador6Semestre {
     public static void main(String[] args) {
         
     }
+    print"hola mundo";
     
 }
 
