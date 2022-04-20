@@ -2,7 +2,6 @@
 /*
 Anyel Vargas
 Daniel Mora
-Guillermo Guerrero
 Sebastian Henao
 Andres Cruz
 */
